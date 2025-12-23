@@ -37,6 +37,21 @@ marketplaces.
 
 ---
 
+## Usage & Sample Output Json
+You will be prompted to enter:
+
+SKU ID or full PDP URL
+
+Country code (ae or sa)
+
+See sample_output.json for a sample response.
+
+Sample SKU URL = https://www.trendyol.com/en/ispartalilar/9999-full-orthopedic-black-white-high-sole-women-s-sports-shoes-water-resistant-p-865739241
+
+SKU =  865739241
+
+---
+
 ## Installation
 
 ```bash
