@@ -1,0 +1,34 @@
+{
+  "product_title": "9999 Full Orthopedic Black White High Sole Women's Sports Shoes Water Resistant",
+  "brand": "ISPARTALILAR",
+  "review": 5,
+  "rating": 5,
+  "category_path": "Shoes/Sports Shoes/Walking Shoes",
+  "variants": {
+    "size": [
+      {
+        "value": "36",
+        "inStock": false
+      },
+      {
+        "value": "37",
+        "inStock": false
+      },
+      {
+        "value": "38",
+        "inStock": false
+      },
+      {
+        "value": "39",
+        "inStock": true
+      },
+      {
+        "value": "40",
+        "inStock": false
+      }
+    ]
+  },
+  "msrp": 183.53,
+  "price": 82.59,
+  "seller_name": "ayakkabiburada"
+}
